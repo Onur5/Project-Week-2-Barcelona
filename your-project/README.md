@@ -73,4 +73,11 @@ Include the links to your repository, slides and trello. Feel free to include an
 
 [Repository](https://github.com/wobniarin/Project-Week-2-Barcelona.git)  
 [Slides](https://slides.com/ingridmunnecollado/deck-1/review#/)  
-[Trello](https://trello.com/b/W5rY2CyX/ih-da-project-2-air-quality-in-barcelona)  
+[Trello](https://trello.com/b/W5rY2CyX/ih-da-project-2-air-quality-in-barcelona) 
+## Google Cloud credentials 
+
+driver = 'mysql+pymysql'
+user = 'owner'
+password = 'ir0n-h4ck'
+ip = '104.197.101.244'
+database = 'Pollution'
