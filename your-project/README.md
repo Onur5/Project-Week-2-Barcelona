@@ -1,6 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Title of My Project
+# Air Pollution In Barcelona
 *[Onur Taskin and Íngrid Munné Collado]*
 
 *[Ironhack Data Analytics Bootcamp. June 2019]*
